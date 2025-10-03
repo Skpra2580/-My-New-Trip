@@ -12,7 +12,7 @@ body {
     padding: 0;
     background: url("https://images.pexels.com/photos/696644/pexels-photo-696644.jpeg");
     background-size: cover;
-    background-repeat: No repeat;
+    background-repeat: No-repeat;
 }
 .Login{
     text-align:center
